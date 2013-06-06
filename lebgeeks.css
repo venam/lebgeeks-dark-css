@@ -367,4 +367,11 @@
         text-shadow: 3px 3px 3px #121212 !important;
         color : #e6e3d6 !important;
     }
+    p a {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    p a:hover {
+        color: #3870B0 !important;
+    }
 }
