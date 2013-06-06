@@ -1,0 +1,370 @@
+@-moz-document domain("lebgeeks.com") {
+
+    @font-face {
+        src: url( "http://venam.1.ai/PragmataProL.ttf") format("truetype");
+    }
+    
+    html,body,.pun {
+        background: url("http://paste.unixhub.net/index.php/zb6sLw/") repeat !important;
+        color: #B3B3B3 !important;
+    }
+    
+    h1 a {
+        color: #B3B3B3 !important;
+        text-shadow: 3px 3px 3px #212121;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-align: center !important;
+    }
+    h1 a:hover {
+        color: #3870B0 !important;
+    }
+    html, body, .pun {
+        color: #B3B3B3 !important;
+    }
+    #brddesc {
+        display: none !important;
+    }
+    #copyright {
+        display: none !important;
+    }
+    #brdwelcome .conl {
+        display: none !important;
+    }
+    .pun #brdfooter #feedlinks span {
+        background: none !important;
+    }
+    #brdtitle {
+        margin-top: -30px !important;
+        margin-left: -10px !important;
+        margin-right: -10px !important;
+        background: none repeat scroll 0 0 #2D2E2E;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    }
+    #brdtitle h1 {
+        float: none !important;
+        font-size: 3em !important;
+        font-weight: bold;
+        padding: 10px 10px 10px !important;
+        text-align: center !important;
+    }
+    
+    .pun {
+        font: 81.25%/1.462em "Pragmata Pro" !important;
+    }
+    .pun table, .pun td, .pun th, .pun input, .pun select, .pun optgroup, .pun textarea, .pun legend {
+        font-family: "Pragmata Pro" !important;
+        font-size: 1em;
+    }
+    .pun pre, .pun code {
+        font-family: "Pragmata Pro" !important;
+        font-size: 0.9em;
+    }
+    
+    .pun h1 {
+        font: 2.154em/1em "Pragmata Pro" !important;
+        padding: 7px 0;
+    }
+    .pun h2, .pun .hd h2 {
+        font: 1.462em/1em "Pragmata Pro" !important;
+        padding: 7px 0;
+    }
+
+    .pun input[type="text"], .pun select, .pun textarea {
+        font-family: "Pragmata Pro" !important;
+    }
+    
+    #brdmenu a, #brdmenu a:link, #brdmenu a:visited {
+        font-size: 12px !important;
+    }
+    
+    #brdmenu {
+        margin-top : -5px !important;
+        margin-left: -10px !important;
+        margin-right: -10px !important;
+        padding-bottom: 1px !important;
+        background: none repeat scroll 0 0 #2D2E2E !important;
+        box-shadow: 0 10px 12px rgba(0, 0, 0, 0.3);
+    }    
+    #brdheader li {
+        text-align: center !important;
+        float: left !important;
+        padding-left: 4px !important;
+    }
+    #brdmenu {
+        padding-left: 25px !important;
+    }
+    #brdwelcome {
+        margin-top: -10px !important;
+    }
+    .conr {
+        padding-right: 20px !important;
+        margin-top: -33px!important;
+        font-size: 12px !important;
+        color: #B3B3B3 !important;
+    }
+    .pagepost .postlink {
+        padding-right: 20px !important;
+        margin-top: 0px!important;
+        font-size: 12px !important;
+        color: #000000 !important;
+    }
+    .conr a {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121;
+    }
+    .conr a:hover {
+        color: #3870B0 !important;
+    }
+    
+    .linksb p {
+        display: none !important;
+    }
+    #brdfooternav {
+        margin-top: -580px!important;
+        margin-right: 4px !important;
+    }
+    .bblinks {
+        display: none !important;
+    }
+    #brdmenu a {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121;
+    }
+    #brdmenu a:hover {
+        color: #3870B0 !important;
+    }
+    
+    buttons input[type="submit"], buttons input[type="button"], buttons input[type="checkbox"]{
+        background: none repeat scroll 0 0 #2D2E2E !important;
+        background-color: #333333 !important;
+        border: 0 solid #3D3D3D   !important;
+        color: #B3B3B3            !important;
+    }
+    
+    form#quickpostform p.buttons input {
+        background: none repeat scroll 0 0 #2D2E2E !important;
+        background-color: #333333 !important;
+        border: 0 solid #3D3D3D   !important;
+        color: #212121            !important;
+    }
+    a:link {
+    color: #F4ECF9 !important;
+    text-shadow: 1px 1px 1px #212121 !important;
+    }
+
+    .pun .blockform .box, #adstats, #adintro, #postpreview, #posterror {
+    background: none repeat scroll 0 0 #2D2E2E !important;
+    border-color: #2D2E2E !important;
+    }
+    
+    #punmisc #rules .box, #punhelp .box {
+        background: none repeat scroll 0 0 #F6F9FC;
+        border-color: #2D2E2E !important;
+    }
+    .pun #quickpost h2, #punpost .blockform h2, #punedit .blockform h2, #posterror h2, #pundelete .blockform h2 {
+        background: none repeat scroll 0 0 #2D2E2E !important;
+        color: #2D2E2E !important;
+    }
+
+    .buttons {
+        color: #333333 !important;
+    }
+    .informs p {
+        background: none repeat scroll 0 0 #353535 !important;
+    
+    }
+
+    input.textbox {
+        -moz-border-bottom-colors: none !important;
+        -moz-border-left-colors: none !important;
+        -moz-border-right-colors: none !important;
+        -moz-border-top-colors: none !important;
+        background: none repeat scroll 0 0 #353535 !important;
+        border-color: #2C2C2C !important;
+        border-image: none !important;
+        border-style: solid !important;
+        border-width: 1px !important;
+        color: #B3B3B3 !important;
+        font-size: 11px !important;
+        outline: medium none !important;
+        padding: 2px !important;
+    }
+    div.infldset.txtarea {
+        background: none repeat scroll 0 0 #2D2E2E !important;
+        border-color : #2D2E2E !important;
+    }
+    
+    .infldset.txtarea label textarea {
+        background: none repeat scroll 0 0 #333333 !important;
+        border-color: #2C2C2C !important;
+        color: #212121 !important;
+        font-size: 11px !important;
+        line-height: 1.4 !important;
+        outline: medium none !important;
+        padding: 2px !important;
+    }
+    
+    .blockform {
+        color: #B3B3B3 !important;
+        padding: 1px 1px 1px 1px !important;
+    }
+
+    .inform, fieldset, legend, fieldset, #quickpost h2 span {
+        background: none repeat scroll 0 0 #2D2E2E !important;
+        color: #B3B3B3 !important;    
+    }
+
+    select {
+        background: none repeat scroll 0 0 #3D3D3D !important;
+    }
+    .editor {
+        background-color: #3D3D3D !important;
+        border: 1px solid #0F5C8E !important;
+        color: #B3B3B3 !important;
+    }
+    .editor_control_bar {
+        background: none repeat scroll 0 0 #3D3D3D !important;
+        border: 1px solid #0F5C8E !important;
+    }
+    .autocomplete {
+        background: none repeat scroll 0 0 #FFFFFF !important;
+        border: 1px solid #000000 !important;
+        color: black !important;
+    }
+
+/* post */
+    .pun .blockpost .postbody, .pun .blockpost .postfoot {
+        background: none repeat scroll 0 0 #424242 !important;
+        color     : #B3B3B3 !important;
+        border-color: #2D2E2E !important;
+    }
+    .pun .postmsg, #punhelp code, #punhelp samp {
+        color: #B3B3B3 !important;
+    }
+
+    .pun .infldset, #adintro .inbox, #adstats .inbox, .postleft, .inbox postfoot, .postfootleft {
+        background: none repeat scroll 0 0 #424242 !important;
+        border-color: #424242 !important;
+    }
+
+    div#brdmain div.box div.inbox {
+            background: none repeat scroll 0 0 #424242 !important;
+        border-color: #424242 !important;
+    }
+    
+
+
+    .blockpost {
+        border-color: #212121 !important;
+        background: none repeat scroll 0 0 #191919 !important;
+    }
+
+    h2 {
+        margin-left:3px !important;
+        border-color: #212121 !important;
+        color: #B3B3B3 !important;
+        font-size: 11px !important;
+        background: none repeat scroll 0 0 #191919 !important;
+    }
+    h2 a {
+        font-size: 12px !important;
+        color: #B3B3B3 !important;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 2px #212121;
+    }
+    h2 a:hover {
+        color: #3870B0 !important;
+    }
+    dt {
+        font-size: 12px !important;
+        color: #B3B3B3 !important;
+        font-family: "Pragmata Pro" !important;
+        text-shadow: 2px 2px 2px #212121;
+    }
+    dt a:hover {
+        color: #3870B0 !important;
+    }
+    .quotebox {
+        border-color: #323232 !important;
+        background: none repeat scroll 0 0 #191919 !important;
+    }
+    cite {
+        color: #e3e6b6 !important;
+    }
+    p {
+        color: #B3B3B3 !important;
+    }
+    strong a {
+        color: #e3e6b6 !important;
+    }
+    #brdmain {
+        border-color: #212121 !important;
+        padding-bottom: 40px !important;
+    }
+    .box {
+        border-color: #212121 !important;
+    }
+
+    th{
+        background: none repeat scroll 0 0 #191919 !important;
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+        border-color: #212121 !important; 
+    }
+    tbody {
+        color: #B3B3B3 !important;
+        background: none repeat scroll 0 0 #2D2E2E !important;
+    }
+    .forumdesc {
+        color: #B3B3B3 !important;
+    }
+    h3 a {
+        color: #B3B3B3 !important;
+        font-weight: bold !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    h3 a:hover{
+        color: #3870B0 !important;
+    }
+    h3 a:hover{
+        color: #3870B0 !important;
+    }
+    td.tcr {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    td.tcr a:hover {
+        color: #3870B0 !important;
+    }
+    .conl, required {
+        color: #B3B3B3 !important;
+    }
+    label {
+        color: #B3B3B3 !important;
+    }
+    .actions a{
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    .actions a:hover{
+        color: #3870B0 !important;
+    }
+    div.linkst div.inbox.crumbsplus div.pagepost {
+        /*border: none !important;
+         display: none !important;*/
+    }
+    div.pagepost {
+        border: none !important;
+    }
+    ul.crumbs {
+        border: none !important;
+    }
+    span.pages-label {
+        /*display: none !important;*/
+    }
+    .byuser {
+        text-shadow: 3px 3px 3px #121212 !important;
+        color : #e6e3d6 !important;
+    }
+}
