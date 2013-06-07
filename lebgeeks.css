@@ -50,28 +50,28 @@
     }
     
     .pun {
-        font: 81.25%/1.462em "Pragmata Pro" !important;
+        font: inherit%/1.462em "Pragmata Pro" !important;
     }
     .pun table, .pun td, .pun th, .pun input, .pun select, .pun optgroup, .pun textarea, .pun legend {
-        font-family: "Pragmata Pro" !important;
+        font-family:"Pragmata Pro" !important;
         font-size: 1em;
     }
     .pun pre, .pun code {
-        font-family: "Pragmata Pro" !important;
+        font-family:"Pragmata Pro" !important;
         font-size: 0.9em;
     }
     
     .pun h1 {
-        font: 2.154em/1em "Pragmata Pro" !important;
+        font: inherit/1em "Pragmata Pro" !important;
         padding: 7px 0;
     }
     .pun h2, .pun .hd h2 {
-        font: 1.462em/1em "Pragmata Pro" !important;
+        font: inherit/1em "Pragmata Pro" !important;
         padding: 7px 0;
     }
 
     .pun input[type="text"], .pun select, .pun textarea {
-        font-family: "Pragmata Pro" !important;
+        font-family:"Pragmata Pro" !important;
     }
     
     #brdmenu a, #brdmenu a:link, #brdmenu a:visited {
@@ -279,7 +279,7 @@
     dt {
         font-size: 12px !important;
         color: #B3B3B3 !important;
-        font-family: "Pragmata Pro" !important;
+        font-family:"Pragmata Pro" !important;
         text-shadow: 2px 2px 2px #212121;
     }
     dt a:hover {
@@ -372,6 +372,17 @@
         text-shadow: 2px 2px 2px #212121 !important;
     }
     p a:hover {
+        color: #3870B0 !important;
+    }
+        div.blockform h2 {
+        margin-left: 0px !important;
+        padding-left: 3px !important;
+    }
+    div.tclcon div a {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    div.tclcon div a:hover {
         color: #3870B0 !important;
     }
 }
