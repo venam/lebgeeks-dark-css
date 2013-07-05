@@ -392,13 +392,10 @@
     div.postfootright a:hover {
         color: #3870B0 !important;
     }    
-<<<<<<< HEAD
     span.rss a{
         display:none;
     }
     div#brdmenu.inbox {
         top:-4px;
     }
-=======
->>>>>>> c32926bb994acc461ba337974279950a3155a102
 }
