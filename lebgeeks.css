@@ -3,12 +3,12 @@
     @font-face {
         src: url( "http://venam.1.ai/PragmataProL.ttf") format("truetype");
     }
-    
+
     html,body,.pun {
-        background: url("http://paste.unixhub.net/index.php/zb6sLw/") repeat !important;
+        background: url("http://i.intma.in/images/93284099c2f3516d8be868aef9e53783.jpe") repeat !important;
         color: #B3B3B3 !important;
     }
-    
+
     h1 a {
         color: #B3B3B3 !important;
         text-shadow: 3px 3px 3px #212121;
@@ -48,7 +48,7 @@
         padding: 10px 10px 10px !important;
         text-align: center !important;
     }
-    
+
     .pun {
         font: 81.25%/1.462em "Pragmata Pro" !important;
     }
@@ -60,7 +60,7 @@
         font-family: "Pragmata Pro" !important;
         font-size: 0.9em;
     }
-    
+
     .pun h1 {
         font: 2.154em/1em "Pragmata Pro" !important;
         padding: 7px 0;
@@ -73,11 +73,11 @@
     .pun input[type="text"], .pun select, .pun textarea {
         font-family: "Pragmata Pro" !important;
     }
-    
+
     #brdmenu a, #brdmenu a:link, #brdmenu a:visited {
         font-size: 12px !important;
     }
-    
+
     #brdmenu {
         margin-top : -5px !important;
         margin-left: -10px !important;
@@ -85,7 +85,7 @@
         padding-bottom: 1px !important;
         background: none repeat scroll 0 0 #2D2E2E !important;
         box-shadow: 0 10px 12px rgba(0, 0, 0, 0.3);
-    }    
+    }
     #brdheader li {
         text-align: center !important;
         float: left !important;
@@ -116,7 +116,7 @@
     .conr a:hover {
         color: #3870B0 !important;
     }
-    
+
     .linksb p {
         display: none !important;
     }
@@ -134,14 +134,14 @@
     #brdmenu a:hover {
         color: #3870B0 !important;
     }
-    
+
     buttons input[type="submit"], buttons input[type="button"], buttons input[type="checkbox"]{
         background: none repeat scroll 0 0 #2D2E2E !important;
         background-color: #333333 !important;
         border: 0 solid #3D3D3D   !important;
         color: #B3B3B3            !important;
     }
-    
+
     form#quickpostform p.buttons input {
         background: none repeat scroll 0 0 #2D2E2E !important;
         background-color: #333333 !important;
@@ -157,7 +157,7 @@
     background: none repeat scroll 0 0 #2D2E2E !important;
     border-color: #2D2E2E !important;
     }
-    
+
     #punmisc #rules .box, #punhelp .box {
         background: none repeat scroll 0 0 #F6F9FC;
         border-color: #2D2E2E !important;
@@ -172,7 +172,7 @@
     }
     .informs p {
         background: none repeat scroll 0 0 #353535 !important;
-    
+
     }
 
     input.textbox {
@@ -194,7 +194,7 @@
         background: none repeat scroll 0 0 #2D2E2E !important;
         border-color : #2D2E2E !important;
     }
-    
+
     .infldset.txtarea label textarea {
         background: none repeat scroll 0 0 #333333 !important;
         border-color: #2C2C2C !important;
@@ -204,7 +204,7 @@
         outline: medium none !important;
         padding: 2px !important;
     }
-    
+
     .blockform {
         color: #B3B3B3 !important;
         padding: 1px 1px 1px 1px !important;
@@ -212,7 +212,7 @@
 
     .inform, fieldset, legend, fieldset, #quickpost h2 span {
         background: none repeat scroll 0 0 #2D2E2E !important;
-        color: #B3B3B3 !important;    
+        color: #B3B3B3 !important;
     }
 
     select {
@@ -252,7 +252,7 @@
             background: none repeat scroll 0 0 #424242 !important;
         border-color: #424242 !important;
     }
-    
+
 
 
     .blockpost {
@@ -310,7 +310,7 @@
         background: none repeat scroll 0 0 #191919 !important;
         color: #B3B3B3 !important;
         text-shadow: 2px 2px 2px #212121 !important;
-        border-color: #212121 !important; 
+        border-color: #212121 !important;
     }
     tbody {
         color: #B3B3B3 !important;
@@ -373,5 +373,29 @@
     }
     p a:hover {
         color: #3870B0 !important;
+    }
+    div.blockform h2 {
+        margin-left: 0px !important;
+        padding-left: 3px !important;
+    }
+    div.tclcon div a {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    div.tclcon div a:hover {
+        color: #3870B0 !important;
+    }
+    div.postfootright a {
+        color: #B3B3B3 !important;
+        text-shadow: 2px 2px 2px #212121 !important;
+    }
+    div.postfootright a:hover {
+        color: #3870B0 !important;
+    }
+    span.rss a{
+        display:none;
+    }
+    div#brdmenu.inbox {
+        top:-4px;
     }
 }
