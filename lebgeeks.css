@@ -5,7 +5,7 @@
     }
     
     html,body,.pun {
-        background: url("http://i.intma.in/images/93284099c2f3516d8be868aef9e53783.jpe") repeat !important;
+        background: url("http://i.intma.in/images/93284099c2f3516d8be868aef9e53783.jpe") #212121 repeat !important;
         color: #B3B3B3 !important;
     }
     
@@ -98,6 +98,8 @@
         margin-top: -10px !important;
     }
     .conr {
+        position: relative;
+        top: -10px;
         padding-right: 20px !important;
         margin-top: -33px!important;
         font-size: 12px !important;
@@ -399,3 +401,4 @@
         top:-4px;
     }
 }
+
